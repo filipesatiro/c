@@ -1,2 +1,2 @@
 # c
-Primeiros passos em linguagem ç
+Primeiros passos em linguagem c
